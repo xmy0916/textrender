@@ -1,3 +1,7 @@
+本项目参考：https://github.com/oh-my-ocr/text_renderer
+
+在基础上加上了竖直文本的生成，参考default.yaml中的random_direction一项设置！
+
 # New version release：https://github.com/oh-my-ocr/text_renderer
 
 # Text Renderer
